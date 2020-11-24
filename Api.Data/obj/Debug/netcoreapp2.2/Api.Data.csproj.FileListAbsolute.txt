@@ -1,0 +1,12 @@
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.deps.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.runtimeconfig.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.runtimeconfig.dev.json
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.csprojAssemblyReference.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfoInputs.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfo.cs
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\DesarrolloSOS\source\repos\Empresa x\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.genruntimeconfig.cache
